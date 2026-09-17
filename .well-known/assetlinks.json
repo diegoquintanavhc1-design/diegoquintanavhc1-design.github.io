@@ -3,6 +3,16 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.climbdiary.v8",
+      "sha256_cert_fingerprints": [
+        "24:C0:BF:8C:9D:0A:7F:3B:FE:5F:9A:0B:AD:30:C2:E4:76:EB:E2:59:83:89:DE:D8:0C:D4:E0:42:ED:3C:09:EC"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.climbdiary.v10",
       "sha256_cert_fingerprints": [
         "15:EC:7D:17:FA:AC:C5:6B:11:5B:89:EB:4E:DD:77:F7:89:5B:2C:50:96:11:D0:F2:55:8B:2B:BA:E4:3B:6C:D2"
